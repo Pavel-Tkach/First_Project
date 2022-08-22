@@ -2,3 +2,7 @@ Hello world
 I'am Pascha
 Hello Pascha
 I'am Mike
+
+Oh, Hello
+How are you, Mike?
+I'am okey
