@@ -6,3 +6,5 @@ I'am Mike
 Oh, Hello
 How are you, Mike?
 I'am okey
+
+Oh, I'am happy
