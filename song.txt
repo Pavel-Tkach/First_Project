@@ -3,6 +3,7 @@ I'am Pascha
 Hello Pascha
 I'am Mike
 
+
 Oh, Hello
 How are you, Mike?
 I'am okey
@@ -18,5 +19,3 @@ And where are you from?
 
 I'm from Minsk !
 This city like to me !!!
-
-
