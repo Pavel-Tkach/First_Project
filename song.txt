@@ -16,7 +16,4 @@ Hello Hello Hello
 I'm from Moskow !
 And where are you from?
 
-I'm from Minsk !
-This city like me
-How are you?
-------------------------
+
